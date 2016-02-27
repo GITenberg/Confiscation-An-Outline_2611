@@ -1,0 +1,30 @@
+_repo: Confiscation-An-Outline_2611
+creator:
+  author:
+    agent_name: Greenwood, William
+    gutenberg_agent_id: '977'
+    url: http://www.gutenberg.org/2009/agents/977
+description: '"Running a republic under the economic laws of a monarchy must of necessity
+  result in producing the same conditions - great wealth for some and great poverty
+  for the rest. This may be a government by the people, but it certainly is no longer
+  a government for the people. Heretofore individual greed has had full swing in the
+  United States, and naturally enough the ablest returned in possession of everything
+  worth grabbing. And naturally enough, too, if a republic means a country owned by
+  all its people, it cannot be a republic if it is owned by only a few. All the power
+  of a country is bound to be in the hands of those who own it. If its wealth is in
+  the hands of a few, its power is there with it.In the hands of a few it must be,
+  if it would be a kingdom or empire. " - Book cover.'
+gutenberg_issued: '2001-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2611'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social conditions -- 1865-1918'
+- !lcsh 'Confiscations'
+- !lcc 'HN'
+title: Confiscation; An Outline
+url: http://www.gutenberg.org/ebooks/2611
