@@ -1,5 +1,5 @@
 _repo: Confiscation-An-Outline_2611
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ subjects:
 - !lcsh 'United States -- Social conditions -- 1865-1918'
 - !lcsh 'Confiscations'
 - !lcc 'HN'
+- GITenberg
 title: Confiscation; An Outline
 url: http://www.gutenberg.org/ebooks/2611
